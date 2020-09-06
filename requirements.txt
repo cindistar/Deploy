@@ -1,6 +1,7 @@
 Flask==1.1.1
 spacy==2.3.2
 gunicorn==19.9.0
+textblob==0.15.3
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
@@ -10,5 +11,9 @@ scipy>=0.15.1
 scikit-learn==0.22.1
 matplotlib>=1.4.3
 pandas>=0.19
+gensim==0.6.0
+sumy==0.8.1
+Pill==1.1.7
+base64==3.4
 flasgger==0.9.4
 streamlit
