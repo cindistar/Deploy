@@ -16,4 +16,6 @@ gensim==3.8.0
 sumy==0.8.1
 flasgger==0.9.4
 streamlit
-en_core_web_sm-2.2.5.tar.gz
+wordnet
+pros_cons
+reuters
